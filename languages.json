@@ -1,0 +1,40 @@
+{
+    "languages": [
+        {
+            "name": "English",
+            "code": "en",
+            "flag": "us",
+            "authors": false
+        },
+        {
+            "name": "Русский",
+            "code": "ru",
+            "flag": "ru",
+            "authors": false
+        },
+        {
+            "name": "Український",
+            "code": "uk",
+            "flag": "uk",
+            "authors": false
+        },
+        {
+            "name": "हिन्दी",
+            "code": "hi",
+            "flag": "in",
+            "authors": ["Feuillemorte#2736"]
+        },
+        {
+            "name": "Italiano",
+            "code": "it",
+            "flag": "it",
+            "authors": ["Krisu#9354"]
+        },
+        {
+            "name": "Français",
+            "code": "fr",
+            "flag": "fr",
+            "authors": ["TrueTrader#0309"]
+        }
+    ]
+}
