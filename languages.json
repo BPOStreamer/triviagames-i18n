@@ -35,6 +35,13 @@
             "code": "fr",
             "flag": "fr",
             "authors": ["TrueTrader#0309"]
+        },
+        {
+            "name": "ελληνικά",
+            "code": "el",
+            "flag": "gr",
+            "authors": ["TRICKSHOTTER71#7937"]
         }
+        
     ]
 }
