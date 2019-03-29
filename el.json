@@ -1,26 +1,13 @@
 {
-
-    "region": "Περιοχή",
-
-    "app": "Εφαρμογές",
-
-    "home": "Σπίτι",
-
-    "bot": "Discord Bot",
-
-    "about": "Σχετικά με",
-
-    "privacy_politics": "Πολιτική απορρήτου",
-
-    "discord_channel": "Discord Channel",
-
-    "contact": "Επικοινωνία",
-
-    "games_not_found": "Δεν βρέθηκαν παιχνίδια",
-
-    "thank_sign": "Ευχαριστώ για την μετάφραση",
-
-    "dev": "Developed By Jsop"
-
+    "region": "Περιοχή",
+    "app": "Εφαρμογές",
+    "home": "Σπίτι",
+    "bot": "Discord Bot",
+    "about": "Σχετικά με",
+    "privacy_politics": "Πολιτική απορρήτου",
+    "discord_channel": "Discord Channel",
+    "contact": "Επικοινωνία",
+    "games_not_found": "Δεν βρέθηκαν παιχνίδια",
+    "thank_sign": "Ευχαριστώ για την μετάφραση",
+    "dev": "Developed By Jsop"
 }
-
